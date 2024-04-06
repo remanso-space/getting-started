@@ -12,8 +12,8 @@ Create a `.litenote.json` file in your repository folder. Lite note will use it 
 }
 ```
 
-| property   | default value | possible values                                                                              |
-| ---------- | ------------- | -------------------------------------------------------------------------------------------- |
-| fontFamily | Courier Prime | Courier Prime, Courgette, IBM Plex Serif, Kiwi Maru, Maven Pro, Noto Sans KR, Tajawal, Amiri, Gowun Batang, Montagu Slab, Cormorant Garamond, Forum |
-| mode       | light         | light, dark                                                                                  |
-| backlink   | false         | true, false                                                                                  |
+| property   | default value | possible values                                                         |
+| ---------- | ------------- | ----------------------------------------------------------------------- |
+| fontFamily | Courier Prime | Every [Google fonts](https://fonts.google.com) (must be the exact case) |
+| mode       | light         | light, dark                                                             |
+| backlink   | false         | true, false                                                             |
