@@ -1,8 +1,8 @@
 # Customize your notes
 
-Create a `.litenote.json` file in your repository folder. Lite note will use it to customize your experience.
+Create a `.remanso.json` file in your repository folder. Remanso will use it to customize your experience.
 
-`.litenote.json` example:
+`.remanso.json` example:
 
 ```json
 {
