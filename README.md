@@ -15,4 +15,8 @@ This web app was heavily inspired by [Andy Matuschak's website](https://notes.an
 
 ## Taking notes on Remanso
 
-Remanso provides multiples rules to [simplify and organize notes](./notes/taking-lite-note.md).
+Remanso provides multiples rules to [simplify and organize notes](./notes/taking-remanso-note.md).
+
+## Where does the name comes from
+
+In Portuguese, *Remanso* is a portion of sea or river water whose surface appears to be or is motionless. Remanso is being peaceful and calm, first writing some notes for yourself and [sharing them](notes/sharing-notes.md) whenever you want.
