@@ -1,11 +1,9 @@
 {
   "siteUrl": "https://remanso.space",
   "contentDir": "./",
+  "imagesDir": "./",
+  "publicDir": "./",
   "outputDir": "./",
-  "pdsUrl": "https://cortinarius.us-west.host.bsky.network",
-  "pathPrefix": "/",
-  "bluesky": {
-    "enabled": false
-  },
+  "publicationUri": "at://did:plc:fe5bpxbelgazqinbt3af3uxj/site.standard.publication/3mfakinvged2p",
   "ignore": ["**/node_modules/**", ".*/**", "_*/**", "!**/*.pub.md"]
 }
