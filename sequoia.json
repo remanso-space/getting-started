@@ -1,0 +1,11 @@
+{
+  "siteUrl": "https://remanso.space",
+  "contentDir": "./",
+  "outputDir": "./",
+  "pdsUrl": "https://cortinarius.us-west.host.bsky.network",
+  "pathPrefix": "/",
+  "bluesky": {
+    "enabled": false
+  },
+  "ignore": ["**/node_modules/**", ".*/**", "_*/**", "!**/*.pub.md"]
+}

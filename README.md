@@ -23,4 +23,4 @@ In Portuguese, *Remanso* is a portion of sea or river water whose surface appear
 
 ## Thanks
 
-Remanso will not have been possible with Andy Matuschak inspiration, the AT Protocol community.
+Remanso will not have been possible with Andy Matuschak inspiration, the AT Proto community.
