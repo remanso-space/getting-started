@@ -24,3 +24,7 @@ In Portuguese, *Remanso* is a portion of sea or river water whose surface appear
 ## Thanks
 
 Remanso will not have been possible with Andy Matuschak inspiration, the AT Proto community.
+
+## Code of conduct
+
+Quoted from the [Glasgow Interface Explorer](https://github.com/GlasgowEmbedded/glasgow/blob/main/CODE_OF_CONDUCT.md) project: For the avoidance of doubt, we have virtually no tolerance for: sexism, misogyny, racism, xenophobia, homophobia, transphobia, queerphobia, pluralphobia, stalking, harassment, unwelcome sexual advances of any kind, doxing, direct violation of non-consent, general bigotry. (This includes egregious off-space behavior if it appears relevant.)
